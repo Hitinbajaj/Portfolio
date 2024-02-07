@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Hitinbajaj",
     resume:
-      "https://drive.google.com/file/d/1MKkJWGqCFoxZYclaozTXxrGpTIoPZF9o/view?usp=sharing",
+      "https://drive.google.com/file/d/15zOJIZyQeOQMz1sS-S8vv863J-iLXHRE/view",
     linkedin: "https://www.linkedin.com/in/hitin-bajaj-983336227/",
     twitter: "https://twitter.com/HitinBajaj1",
     insta: "https://www.instagram.com/hitinbajaj/",
@@ -145,7 +145,7 @@ export const Bio = {
     {
       id: 0,
       // img: "https://drive.google.com/file/d/1xVNQwXKKzfmGw2zjInUZI5m78CgH3CJC/view?usp=sharing",
-      role: "Front End Developer Intern",
+      role: "Full stack Developer Intern",
       company: "SK Radios",
       date: "2023-12 - 2024-01",
       desc: "Worked on Ecommerce website project using HTML, CSS & JAVASCRIPT ReactJS, Redux for taking orders and order them via whatsapp.",
@@ -156,6 +156,8 @@ export const Bio = {
         "HTML",
         "CSS",
         "JavaScript",
+        "Node.js",
+        "Express"
       ],
 
     },
