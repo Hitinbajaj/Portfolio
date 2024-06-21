@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/Hitinbajaj",
     resume:
-      "https://drive.google.com/file/d/15zOJIZyQeOQMz1sS-S8vv863J-iLXHRE/view",
+      "https://drive.google.com/file/d/1jqkTBHexOBZJi1K05acboLQStx-RoPEC/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/hitin-bajaj-983336227/",
     twitter: "https://twitter.com/HitinBajaj1",
     insta: "https://www.instagram.com/hitinbajaj/",
@@ -145,24 +145,23 @@ export const Bio = {
     {
       id: 0,
       // img: "https://drive.google.com/file/d/1xVNQwXKKzfmGw2zjInUZI5m78CgH3CJC/view?usp=sharing",
-      role: "Full stack Developer Intern",
-      company: "SK Radios",
-      date: "2023-12 - 2024-01",
-      desc: "Worked on Ecommerce website project using HTML, CSS & JAVASCRIPT ReactJS, Redux for taking orders and order them via whatsapp.",
+      role: "Software Developer Intern",
+      company: "Menrva Technologies",
+      date: "2024-04 - Present",
+      desc: "Worked on Buisness Intelligence Reports in React and D3.js and Added Segment to whole application to track user interaction and personalization.",
       skills: [
         "ReactJS",
         "Redux",
-        "NodeJs",
-        "HTML",
+        "Python",
+        "Segment",
         "CSS",
         "JavaScript",
-        "Node.js",
-        "Express"
+        "Material UI",
       ],
 
     },
     {
-      id: 0,
+      id: 1,
       // img: "https://drive.google.com/file/d/1jwJQQKewo-qT880G_ifya-PopJBlrYND/view?usp=sharing",
       role: "UI/UX Intern",
       company: "Barbera",
